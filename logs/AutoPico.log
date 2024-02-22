@@ -1,0 +1,64 @@
+14:44:57:985 2023.02.13 AutoPico 16.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Time Start: 2/13/2023 2:44:52 PM
+
+14:44:57:993 Checking Internet Connection...
+14:45:00:017 Error: Unable to ping because a network connection is not available. ᜀ
+14:45:00:173 No Internet Connection Detected
+14:45:00:111 No Internet Connection Detected
+14:45:06:485 Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+14:45:06:953 Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+14:45:08:313 Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+14:45:10:990 Loading SECOH-QAD...
+14:45:11:096 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+14:45:11:104 Using host Forward: 10.192.184.192:1688
+14:45:11:107 Using host Local: 127.36.202.114:1688
+14:45:11:109 Using method: SECOH-QAD
+14:45:11:665 Opening Firewall Port...
+14:45:12:870 Error: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+ ᜀ
+14:45:12:901 Error: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+ ᜀ
+14:45:13:021 Loading SECOH-QAD...
+14:45:13:121 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+14:45:13:050 Loading SECOH-QAD...
+14:45:13:132 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+14:45:13:132 Using host Forward: 10.100.7.145:1688
+14:45:13:157 Using host Local: 127.247.195.119:1688
+14:45:13:135 Using host Forward: 10.100.7.145:1688
+14:45:13:164 Using host Local: 127.247.195.119:1688
+14:45:13:482 Using method: SECOH-QAD
+14:45:13:162 Using method: SECOH-QAD
+14:45:14:112 Opening Firewall Port...
+14:45:15:400 Opening Firewall App...
+14:45:16:192 Opening Firewall Port...
+14:45:16:983 Opening Firewall App...
+14:45:18:240 Opening Firewall App...
+14:45:18:518 KMSEmulator Port: 1688
+14:45:18:547 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+14:45:19:563 KMSEmulator running port: 1688
+14:45:20:433 KMSEmulator Port: 1688
+14:45:20:452 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+14:45:20:728 IPv6 failure. Trying IPv4 only
+14:45:21:042 Error: Only one usage of each socket address (protocol/network address/port) is normally permitted Start
+14:45:21:612 KMSEmulator running port: 1688
+14:45:23:120 Loading OEM Key Dumper...
+14:45:23:603 None MSDM table found
+14:45:25:501 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+14:45:27:485 KMSEmulator Port: 1688
+14:45:28:720 Office 2010 Skipped
+14:45:27:520 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+14:45:28:544 IPv6 failure. Trying IPv4 only
+14:45:28:690 Error: Only one usage of each socket address (protocol/network address/port) is normally permitted Start
+14:45:28:860 IPv4 failure.
+14:45:29:490 Error: Only one usage of each socket address (protocol/network address/port) is normally permitted Start
+14:45:30:558 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+14:45:30:649 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+14:45:31:930 Office 2010 Skipped
+14:45:33:487 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+14:45:29:644 KMSEmulator running port: 1688
+14:45:36:306 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+14:45:37:317 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+14:45:38:064 Office 2010 Skipped

@@ -1,0 +1,173 @@
+14:47:00:806 Error: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+ ᜀ
+14:47:00:836 Loading SECOH-QAD...
+14:47:00:950 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+14:47:01:014 Using host Forward: 10.215.37.140:1688
+14:47:01:036 Using host Local: 127.83.35.116:1688
+14:47:01:069 Using method: SECOH-QAD
+14:47:01:308 Time Start: 2/13/2023 2:46:57 PM
+14:47:01:485 Checking Internet Connection...
+14:47:03:204 Error: Unable to ping because a network connection is not available. ᜀ
+14:47:03:284 No Internet Connection Detected
+14:47:08:909 Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+14:47:09:221 Error: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+ ᜀ
+14:47:09:436 Using host Forward: 10.215.37.140:1688
+14:47:09:587 Using host Local: 127.83.35.116:1688
+14:47:09:698 Using method: SECOH-QAD
+14:47:11:174 Port: 1688 is used, changing...
+14:47:13:852 Opening Firewall Port...
+14:47:33:326 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+14:47:34:244 Office 2010 Skipped
+14:47:34:742 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+14:47:26:203 KMSEmulator running port: 1689
+14:47:16:903 Opening Firewall App...
+14:47:25:955 KMSEmulator Port: 1689
+14:47:25:990 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+14:47:53:612 Found Office 2013 Products: 1
+14:47:53:711 Name: Office 15, OfficeProPlusVL_KMS_Client edition
+Description: Office 15, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: GVGXT
+GenuineStatus: 1
+
+14:48:07:303 DisableKeyManagementServiceHostCaching 0
+14:48:07:408 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+14:48:07:515 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+14:48:07:799 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+14:47:35:084 Office 2010 Skipped
+14:48:07:900 Found Office 2013 Products: 1
+14:48:07:984 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+14:47:49:314 Error: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+ ᜀ
+14:47:48:030 2023.02.13 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+
+14:47:49:321 Loading SECOH-QAD...
+14:47:49:337 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+14:47:49:356 Using host Forward: 10.4.102.228:1688
+14:47:49:359 Using host Local: 127.57.224.151:1688
+14:47:49:401 Using method: SECOH-QAD
+14:47:49:511 Time Start: 2/13/2023 2:47:34 PM
+14:47:49:543 Checking Internet Connection...
+14:47:50:903 Error: Unable to ping because a network connection is not available. ᜀ
+14:47:50:998 No Internet Connection Detected
+14:48:05:265 KMSEmulator Port: 1690
+14:47:59:311 Opening Firewall Port...
+14:47:52:126 Using host Forward: 10.4.102.228:1688
+14:47:56:328 Port: 1689 is used, changing...
+14:48:42:213 Office 2010 Skipped
+14:48:37:319 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+14:47:52:237 Using method: SECOH-QAD
+14:47:52:193 Using host Local: 127.57.224.151:1688
+14:47:52:885 Port: 1688 is used, changing...
+14:47:51:965 Windows Detected: Windows 10 Pro : Professional : 6.3 : 18363
+14:48:16:425 Office 2016 Found: C:\Program Files\Microsoft Office\root\Office16
+14:47:52:060 Error: Operation did not complete successfully because the file contains a virus or potentially unwanted software.
+ ᜀ
+14:48:05:655 KMSEmulator running port: 1690
+14:48:05:315 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+14:48:01:695 Opening Firewall App...
+14:49:21:375 Found Office 2013 Products: 1
+14:49:21:668 Name: Office 15, OfficeProPlusVL_KMS_Client edition
+Description: Office 15, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: GVGXT
+GenuineStatus: 1
+
+14:49:31:151 DisableKeyManagementServiceHostCaching 0
+14:49:31:230 DisableKeyManagementServiceHostCaching 0
+14:49:31:284 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+14:49:31:654 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+14:49:31:826 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+14:49:31:915 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+14:49:31:424 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+14:49:31:744 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+14:49:31:927 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+14:49:32:054 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+14:49:32:081 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+14:49:32:193 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+14:49:32:309 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+14:49:36:025 Found Windows Products: 1
+14:49:36:044 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_MAK channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 6MT6Y
+GenuineStatus: 0
+
+14:49:36:108 Version Windows Skipped
+14:49:43:480 Error: You need Reinstall Office 2016 or Open It the firts time
+14:49:50:439 Found Windows Products: 1
+14:49:50:487 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_MAK channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 6MT6Y
+GenuineStatus: 0
+
+14:49:50:599 Version Windows Skipped
+14:48:08:184 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+14:48:08:310 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+14:49:57:929 Found Windows Products: 1
+14:49:57:963 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_MAK channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 6MT6Y
+GenuineStatus: 0
+
+14:50:04:858 Error: You need Reinstall Office 2016 or Open It the firts time
+14:49:58:065 Version Windows Skipped
+14:50:13:310 Error: You need Reinstall Office 2016 or Open It the firts time
+14:47:15:227 Office 2013 Found: C:\Program Files\Microsoft Office\Office15\
+14:50:23:482 Found Windows Products: 1
+14:50:23:596 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_MAK channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 6MT6Y
+GenuineStatus: 0
+
+14:50:23:640 Version Windows Skipped
+14:50:27:368 Office 2016. (non KEY) --> ProPlus KEY ?
+14:50:33:402 Folder Found: D:\KMSpico\cert\kmscert2016\ProPlus
+14:50:36:656 Office 2016. (non KEY) --> ProPlus KEY ?
+14:50:33:699 Converting Office 16, Office16ProPlus ...
+14:50:38:302 Installing License 1 for :ProPlus
+14:50:42:297 Folder Found: D:\KMSpico\cert\kmscert2016\ProPlus
+14:50:50:094 InstallLicense 0
+14:50:51:447 Installing License 2 for :ProPlus
+14:53:42:456 InstallLicense 0
+14:53:42:718 Installing License 3 for :ProPlus
+14:53:55:838 Found Office 2013 Products: 1
+14:53:55:919 Name: Office 15, OfficeProPlusVL_KMS_Client edition
+Description: Office 15, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: GVGXT
+GenuineStatus: 1
+
+14:54:41:203 InstallLicense 0
+14:54:41:336 DisableKeyManagementServiceHostCaching 0
+14:54:41:400 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServiceName
+14:54:41:461 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4a5d124a-e620-44ba-b6ff-658961b33b9a:KeyManagementServicePort
+14:54:41:510 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+14:54:41:583 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+14:54:41:640 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServiceName
+14:54:41:687 Installing License 4 for :ProPlus
+14:54:41:740 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\e13ac10e-75d0-4aff-a0cd-764982cf541c:KeyManagementServicePort
+14:55:25:321 InstallLicense 0
+14:55:26:990 Error: You need Reinstall Office 2016 or Open It the firts time
+14:55:27:970 Installing License 5 for :ProPlus
+14:56:13:000 InstallLicense 0
+14:56:13:281 Installing License 6 for :ProPlus
+14:56:41:298 Office 2016. (non KEY) --> ProPlus KEY ?
+14:56:47:230 Office 2016 Skipped
+14:58:11:844 Office 2016. (non KEY) --> ProPlus KEY ?
+14:58:16:366 Office 2016 Skipped
